@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Abdul%20Khaliq%20Zizo&fontSize=70&animation=fadeIn" alt="Header" />
-</p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Zizo. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <h2 align="center">🎬 Motion Graphics Designer | Visual Storyteller</h2>
 
@@ -29,16 +27,7 @@
   <img src="https://img.shields.io/badge/Cinema%204D-000000?style=for-the-badge&logo=cinema4d&logoColor=white" />
 </p>
 
----
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Zizo's Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
