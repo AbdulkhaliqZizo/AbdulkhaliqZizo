@@ -1,4 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Zizo. /></a></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Zizo%20Motion&fontSize=90&animation=fadeIn&desc=Transforming%20Ideas%20Into%20Motion&descAlign=50&descAlignY=70" />
+</p>
 
 <h2 align="center">🎬 Motion Graphics Designer | Visual Storyteller</h2>
 
