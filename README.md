@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Zizo%20Motion&fontSize=90&animation=fadeIn&desc=Transforming%20Ideas%20Into%20Motion&descAlign=50&descAlignY=70" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Abdul+Khaliq;Motion+Graphics+Designer;Welcome+to+my+Creative+World" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🎬 Motion Graphics Designer | Visual Storyteller</h2>
